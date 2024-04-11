@@ -1,13 +1,13 @@
 /**
  * ArgTester
  * Send loads of arguments to a program to test it responses.
- * GitHub: https://www.guthub.com/lewisevans2007/ArgTester
+ * GitHub: https://www.guthub.com/0x4248/ArgTester
  * Licence: GNU General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
  */
 
 
-package com.github.lewisevans2007;
+package com.github.0x4248;
 import java.util.*;
 import java.io.*;
 public class Main {
