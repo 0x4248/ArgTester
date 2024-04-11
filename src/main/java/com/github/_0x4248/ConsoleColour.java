@@ -6,7 +6,7 @@
  * By: 0x4248
  */
 
-package com.github.0x4248;
+package com.github._0x4248;
 
 public class ConsoleColour {
     public static final String RESET = "\033[0m";

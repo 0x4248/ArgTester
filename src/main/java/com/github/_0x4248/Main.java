@@ -7,7 +7,7 @@
  */
 
 
-package com.github.0x4248;
+package com.github._0x4248;
 import java.util.*;
 import java.io.*;
 public class Main {
